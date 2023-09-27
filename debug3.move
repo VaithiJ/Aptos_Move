@@ -52,5 +52,4 @@ module MyAddr::math{
         let c:u8=mul(3,3);
         debug::print<u8>(&c)
     }
-    asdasdasd
 }
